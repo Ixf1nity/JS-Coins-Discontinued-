@@ -1,0 +1,5 @@
+name: JS-Coins
+version: '${project.version}'
+main: me.infinity.coins.Coins
+authors: [ Infinity ]
+description: Json & SQL reference project
